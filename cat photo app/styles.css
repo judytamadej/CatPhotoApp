@@ -1,0 +1,35 @@
+body {
+  font-family: 'Indie Flower';
+  background-color: #f4f4f4;
+  width: 100%;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+main {
+  text-align: center;
+}
+
+ul, ol {
+  display: inline-block;
+  list-style-position: inside;
+}
+
+form {
+  width: 300px;
+  margin: 0 auto;
+}
+
+fieldset {
+  margin: 14px 0;
+}
+
+footer {
+  text-align: center;
+  background-color: darkslategray;
+  margin: 10px 0 0 0;
+  padding: 5px;
+}
